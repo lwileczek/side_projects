@@ -1,6 +1,6 @@
 @title[Introduction]
-## The Kitchen Sink
-##### <span style="font-family:Corbel; font-weight:bold">A <span style="color:#e49436">Git</span>Pitch Feature Tour</span>
+## First Slide Show
+##### <span style="font-family:Corbel; font-weight:bold"> <span style="color:#e49436">Luke</span>Learns new things</span>
 
 ---
 @title[Slide1]
