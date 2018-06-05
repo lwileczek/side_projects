@@ -7,11 +7,10 @@ body {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #FFFFFF; 
   text-decoration: none;
   cursor: pointer;}
 a:hover {
-  color: #B0B0B0;
+  color: #99badd;
   text-decoration: underline;}
   
   
