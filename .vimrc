@@ -13,4 +13,5 @@
 :set formatoptions=tcq
 syntax on
 :set spelllang=en
-:set spellfile=/usr/share/dict/cracklib-small.utf-8.add
+:set spellfile=/usr/share/dict/words.utf-8.add
+:set statusline=Current:\ %-4l\ Total:\ %-4L
