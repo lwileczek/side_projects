@@ -1,0 +1,22 @@
+#https://d3ward.github.io/toolz/adblock.html unblocked sites
+
+0.0.0.0 doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 media.fastclick.net
+
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 affiliationjs.s3.amazonaws.com
+0.0.0.0 amazonclix.com
+0.0.0.0 advertising-api-eu.amazon.com
+
+0.0.0.0 ads.facebook.com
+0.0.0.0 ad-api.twitter.com
+0.0.0.0 advertising.twitter.com
+0.0.0.0 widgets.pinterest.com
+0.0.0.0 ads.reddit.com
+0.0.0.0 d.reddit.com
+
+0.0.0.0 ads.youtube.com
